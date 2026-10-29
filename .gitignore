@@ -1,0 +1,7 @@
+# Keep the unsanitized source export private.
+exams_clean.csv
+
+# Local Python and Streamlit artifacts.
+.venv/
+__pycache__/
+.streamlit/secrets.toml
